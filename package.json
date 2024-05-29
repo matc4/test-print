@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/matc4/test-print#readme",
   "dependencies": {
+    "escpos": "^3.0.0-alpha.6",
+    "escpos-usb": "^3.0.0-alpha.4",
     "express": "^4.19.2"
   }
 }
